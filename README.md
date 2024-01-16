@@ -1,4 +1,4 @@
-# Pokémon Lunatic Crystal 
+# Pokémon Lunatic Crystal V1.3
 
 This is a ROM Hack based on the Pokémon Crystal disassembly. This repository allows you the chance to build the ROM itself and view the files and many changes I've made.
 
