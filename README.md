@@ -10,7 +10,7 @@ https://www.romhacking.net/hacks/8345/ - Download the patch, has full descriptio
 Download patch (V1.3): https://workupload.com/file/XcpkSQdr9gC
 Download docs: https://workupload.com/file/fr4RXunC7F7
 
-A massive thank you to everyone in the "pret" Discord, the Pokemon Crystal Dissaembly and the many tutorials you have written. This hack would not be possible without you! :)
+A massive thank you to everyone in the "pret" Discord, the Pokémon Crystal Disassembly and the many tutorials you have written. This hack would not be possible without you! :)
 
 Credits for one of the battle themes to Mmmmmmmmmmmmmmmmm on Soundcloud, for the Team Rocket sprites to SirWhibbles on Deviantart, as well as LuigiTKO for the Menu Icons!
 
